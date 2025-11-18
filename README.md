@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)](https://adamandrsn.github.io/MyPortofolio/)
 <h1 align="center">Hi 👋, I'm Adam Anderson Yuniarto</h1>
-<h3 align="center">Passionate IT Student | UI/UX Enthusiast | Frontend Developer in Web Development and Web Design | Committed to Improving User Experience with Innovative Design</h3>
+<h3 align="center">UI/UX Enthusiast | Frontend Developer in Web Development and Web Design | Committed to Improving User Experience with Innovative Design</h3>
 
 📫 How to reach me **adamyuniarto51@gmail.com**
-<p>🗒️ Check My Portofolio https://adamandrsn.github.io/MyPortofolio/ </p>
+<p>🗒️ Check My Portofolio https://adamandrsn.github.io/MyPortfolio-2.0/index.html </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
